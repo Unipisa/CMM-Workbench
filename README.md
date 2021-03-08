@@ -4,8 +4,6 @@
 
 -------------------
 
-__Please note: this file shall substitute the README md file of the repository, after archiving the source code into SWH for the first time. This paragraph should be deleted.__
-
 This repository was created with the support of the 
 [Software Heritage Acquisition Process Pisa Enactor](https://github.com/Unipisa/SWHAPPE) and contains the 
 [Information on the acquisition process](https://github.com/Unipisa/CMM-Workbench/tree/master/metadata).
