@@ -1,5 +1,5 @@
 
-# CMM Depository Catalougue Tree
+# CMM Depository Catalogue Tree
 
 ~~~
 .
