@@ -1,14 +1,4 @@
-
-# CMM Depository Catalogue Tree
-
-~~~
-.
-├── attardi.ps
-├── cmm.tgz
-└── email_attardi.txt
-~~~
-
-# CMM Depository Catalougue
+# CMM Catalogue
 
 
 * **[attardi.ps](https://github.com/Unipisa/CMM-Depository/tree/master/raw_materials/attardi.ps)**
@@ -31,3 +21,12 @@
   * *Collectors:* [Guido Scatena](./metadata/actors.md#guido_scatena), [Carlo Montangero](./metadata/actors.md#carlo_montangero), [Roberto Di Cosmo](./metadata/actors.md#roberto_di_cosmo). 
   * *Description:* text of the email sent on 02/03/2019 by [Giuseppe Attardi](./metadata/actors.md#giuseppe_attardi) to [Roberto Di Cosmo](./metadata/actors.md/#roberto_di_cosmo) e [Carlo Montangero](./metadata/actors.md#carlo_montangero).
   
+
+# CMM Catalogue Tree
+
+~~~
+raw_materials
+├── attardi.ps
+├── cmm.tgz
+└── email_attardi.txt
+~~~
