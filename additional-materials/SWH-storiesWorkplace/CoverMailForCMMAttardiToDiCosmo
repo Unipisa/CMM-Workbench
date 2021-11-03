@@ -1,0 +1,68 @@
+---------- Forwarded message ---------
+From: Roberto Di Cosmo <roberto@dicosmo.org>
+Date: sam. 2 mars 2019 à 12:29
+Subject: Re: CMM
+To: Giuseppe Attardi <attardi@di.unipi.it>
+Cc: Carlo Montangero <monta@di.unipi.it>
+
+Grande! Grazie mille! :-)
+
+
+Roberto
+
+------------------------------------------------------------------
+Computer Science Professor
+           (on leave at INRIA from IRIF/University Paris Diderot)
+
+Director
+Software Heritage             E-mail : roberto@dicosmo.org
+INRIA                            Web : http://www.dicosmo.org
+Bureau C123                  Twitter : http://twitter.com/rdicosmo
+2, Rue Simone Iff                Tel : +33 1 80 49 44 42
+CS 42112
+75589 Paris Cedex 12
+------------------------------------------------------------------                                                  
+GPG fingerprint 2931 20CE 3A5A 5390 98EC 8BFC FCCA C3BE 39CB 12D3
+
+
+Le sam. 2 mars 2019 à 12:11, Giuseppe Attardi <attardi@di.unipi.it> a écrit :
+CMM (Customizable Memory Management) è il conservative garbage collector 
+per C++ che sviluppai per il progetto PoSSo (Polynomial System Solver).
+
+Il solver aveva delle fasi in cui venivano creati tantissimi oggetti 
+temporanei, che potevano essere cancellati in un botto solo alla fine 
+della fase.
+
+Segnalai CMM a Bill Joy nel 1994, quando mi disse che stava cercando un 
+GC per un nuovo linguaggio che stavano sviluppando alla Sun Microsystems.
+
+Gli consegnai una copia dell'articolo presentato a USENIX C++ 1994, che 
+riportava un link ftp da cui scaricare il codice:
+
+http://usenix.org/publications/library/proceedings/c++94/full_papers/attardi.ps
+
+
+BTW, alla conferenza Bjarne Stroustrup fu colpito dal lavoro e mi disse 
+che con il miglioramento delle tecniche di GC, stava ricredendosi sulla 
+possibilità di introdurle nel C++.
+
+Qualche tempo dopo incontrai Ted Goldstein, del dipartimento Sun 
+Engineering, che mi ringraziò, dicendo che avevano utilizzato il codice 
+nella loro implementazione del linguaggio Oak, il nome che gli aveva 
+dato James Gosling, guardando fuori dalla finestra del suo studio. Poi 
+dovettero rinominarlo Java, per questioni di copyright.
+
+A quel tempo non usavamo sistemi di versionamento, ma ci eravamo fatti 
+uno script noi per fare versioni.
+
+Eccoti un link a un tar che contiene diverse versioni:
+
+     http://medialab.di.unipi.it/ftp/cmm.tgz
+
+
+Enjoy
+
+
+-- Beppe
+
+
