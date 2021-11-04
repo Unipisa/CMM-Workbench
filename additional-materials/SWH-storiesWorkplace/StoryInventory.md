@@ -13,36 +13,15 @@ In the statements, I use braces to pair the name and value of a property. The sa
 ## Wikidata entities to be created for the CMM story
 
 ## Wikidata entities created for the CMM story
-
-Item: Q109375562
-* Label: CMM
-* Description: Customisable Memory Manager.
-* Statements
-     * {instanceof: software(Q7397)}
-     * {creator: Tonina Starita(Q108929353)}
-     * {platform: CEP - Calcolatrice Elettronica Pisana (Q3650499)}
-     * {inception: 13/2/1968}
-     * {termination(?): 4/4/1968}
-
-Item: Q108929353
-* Label: Tonina Starita
-* Description: Italian computer scientist
-* Statements
-     * {instanceof: human}
-     * {gender (P21): female}
-     * more...
+ created from codemeta.json on https://www.wikidata.org/wiki/Q109375562
 
 ## Images to be loaded to Wikimedia Commons for the CMM story
 
-They are in folder CMM-WORKBENCH/workplace/ImagesToBeLoadedToCommons. Their respective proposed metadata are listed in the "Use of the above" section, below. 
+They are in folder CMM-Workbench/additional-materials/SWH-storiesWorkplace/ImagesToBeUploadedToCommons 
+Their respective proposed metadata are listed in the "Use of the above" section, below. 
 
 ## Commons Categories to be created for the CMM story
-* Historical software with a SWH-story
-     * {Parent: Historical software}
 
-* CMM
-     * {Parent: Historical software with a SWH-story}
-     * {}
 
 ## Proposed use of the above
 
