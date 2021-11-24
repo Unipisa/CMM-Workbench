@@ -45,6 +45,16 @@ NA
 
 ### People moment
 
+* Q109375575
+* [titoSerio[19178].jpg](additional-materials\SWH-storiesWorkplace\ImagesToBeUploadedToCommons\FlagellaPortrait\titoSerio[19178].jpg)
+  * {Title:Tito Flagella}
+  * {Caption: Tito Flagella (Q109375575)}
+  * {Description: {{en|1=}}  }
+  * {Reference: [CMM-Worbench](https://github.com/Unipisa/CMM-Workbench/blob/master/additional-materials/SWH-storiesWorkplace/ImagesToBeUploadedToCommons/FlagellaPortrait/titoSerio%5B19178%5D.jpg)}
+  * {Author: {{Author|MuntDlaGera}} {{Author|upload|MuntDlaGera}}}
+  * {Decimal Coordinates: }
+  * {Categories: CMM}
+
 ### Wikidata statements moment
 I guess this is done automatically.
 
@@ -52,4 +62,4 @@ I guess this is done automatically.
 
 ### SWH source code moment
 
-#### About the CEP
+
