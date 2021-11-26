@@ -25,6 +25,10 @@ The language was renamed Java, due to copyright issues over the term Oak.
 
 When I met one of them at a conference in Cambridge, they told me that they were enthusiastic and that we were a couple of years ahead of them in developing a garbage collector. News of the use of CMM for Java spread through the community, and Paul Wilson, author of a comprehensive review on the subject, complimented me, because in that way, the GC technique was becoming main stream. In fact, almost every programming language developed in recent years incorporates a garbage collector.
 
+**Q: Which development platform were you using?**
+
+A: At that time, Sun workstations were used. Then, PCs running Linux.
+
 **Q: In what sense is CMM conservative?**
 
 A: A tracing collector has to discover all live objects in the heap, i.e. those that are supposedly still in use by the program. They  can be reached traversing any data structure refereed in the variables present in the stack, hence the collector has to go through the stack to identify such roots.
@@ -33,7 +37,3 @@ Therefore a conservative collector has to scan the stack blindly, assuming that 
 However it might misinterpret an integer or another data type as a pointer and follow it to get to an object in the heap, from which it will trace through its descendants.
 The only harm this can do to the program, is to consider as still alive objects that are not. These object will be preserved from collection and therefore “conserved” longer than they should.
 Hence the name conservative collector.
- 
-**Q: Which hardware were you using?**
-
-A: At that time, Sun workstations were used. Then, PCs running Linux.
