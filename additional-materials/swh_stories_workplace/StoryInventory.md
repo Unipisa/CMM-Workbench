@@ -6,15 +6,14 @@
 
 ## Wikidata entities for the story
 
- created from codemeta.json on https://www.wikidata.org/wiki/Q109375562
+ created from codemeta.json on <https://www.wikidata.org/wiki/Q109375562>
 
 ## Commons Categories to be created for the SW_NAME story
 
 ## Media gallery moment
 
-They are in folder CMM-Workbench/additional-materials/SWH-storiesWorkplace/ImagesToBeUploadedToCommons 
-Their respective proposed metadata are listed in the "Use of the above" section, below. 
-
+They are in folder CMM-Workbench/additional-materials/SWH-storiesWorkplace/ImagesToBeUploadedToCommons
+Their respective proposed metadata are listed in the "Use of the above" section, below.
 
 ## Wikipedia article moment
 
@@ -28,7 +27,6 @@ Link to Wikipedia, if any.
 
 ### People gallery moment
 
-
 * Q109375575
 * [titoSerio[19178].jpg](additional-materials\SWH-storiesWorkplace\ImagesToBeUploadedToCommons\FlagellaPortrait\titoSerio[19178].jpg)
   * {Title:Tito Flagella}
@@ -38,6 +36,7 @@ Link to Wikipedia, if any.
   * {Author: {{Author|MuntDlaGera}} {{Author|upload|MuntDlaGera}}}
   * {Decimal Coordinates: }
   * {Categories: CMM}
+
 ### People documents moment
 
 ## Library Moment
@@ -55,6 +54,5 @@ Link to Wikipedia, if any.
 ## SWH source code moment
 
 ## Learn more moment
-
 
 ### About the CEP
