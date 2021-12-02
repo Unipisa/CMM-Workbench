@@ -1,1 +1,0 @@
-See RemovedFromCommons in AttardiPortrait.
